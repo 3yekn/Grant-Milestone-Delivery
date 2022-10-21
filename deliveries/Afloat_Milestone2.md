@@ -15,7 +15,7 @@ A running instance of the code can be found [here](https://portal-dev.hashed.sys
 | -----: | ----------- | ------------- | ------------------- |
 | 0a. | License | https://github.com/hashed-io/hashed-substrate/blob/main/LICENSE | MIT |
 | 0b. | Documentation | See list of repos below for inline documentation, or [Hashed Network Runtime Documetation](https://hashed-io.github.io/hashed-substrate/hashed_runtime/index.html) |  |
-| 0c. | Testing | https://github.com/hashed-io/hashed-substrate/blob/main/pallets/gated-marketplace/src/tests.rs | The test is built directly into the Rust project |
+| 0c. | Testing | https://github.com/hashed-io/hashed-substrate/blob/main/pallets/gated-marketplace/src/tests.rs | The tests are built directly into the corresponding Rust and Javascript projects |
 | 0d. | Video | [English](https://youtu.be/dpFk2d0UXYc) and [Spanish](Afloat_Milestone2.md) versions | Explainer of features, context, and demonstration |
 | 0e. | Article | [English](Afloat_Milestone2.md) and [Spanish](https://docs.google.com/document/d/1DNHgONQrZfpG4f0f79n6pS9h9jUQQDW52OlWCw1TiJA/edit?usp=sharing) versions | Afloat's and general use case of gated Marketplaces |
 | 1. | Originate Tax Credit | [JS library](https://github.com/hashed-io/afloat-client-api/blob/master/src/model/polkadot-pallets/afloatApi.js#L34) [Pallet](https://github.com/hashed-io/hashed-substrate/blob/develop/pallets/fruniques/src/lib.rs#L177) | This video provides a demonstration and explainer for how new tax credit NFTs are being originated: [Youtube Video](https://youtu.be/dpFk2d0UXYc) | 
