@@ -14,7 +14,7 @@ A running instance of the code can be found [here](https://portal-dev.hashed.sys
 | Number | Deliverable | Link | Notes |
 | -----: | ----------- | ------------- | ------------------- |
 | 0a. | License | https://github.com/hashed-io/hashed-substrate/blob/main/LICENSE | MIT |
-| 0b. | Documentation | https://github.com/hashed-io/hashed-marketplaces-ui <br> https://github.com/hashed-io/hashed-substrate<br>  https://github.com/hashed-io/hashed-private-server <br> https://github.com/hashed-io/hashed-private-client-api | The code has inline documentation and each repository has a detailed README with build, run, and test instructions. |
+| 0b. | Documentation | See list of repos below for inline documentation, or [Hashed Network Runtime Documetation](https://hashed-io.github.io/hashed-substrate/hashed_runtime/index.html) |  |
 | 0c. | Testing | https://github.com/hashed-io/hashed-substrate/blob/main/pallets/gated-marketplace/src/tests.rs | The test is built directly into the Rust project |
 | 0d. | Video | [English](https://youtu.be/dpFk2d0UXYc) and [Spanish](Afloat_Milestone2.md) versions | Explainer of features, context, and demonstration |
 | 0e. | Article | [English](Afloat_Milestone2.md) and [Spanish](https://docs.google.com/document/d/1DNHgONQrZfpG4f0f79n6pS9h9jUQQDW52OlWCw1TiJA/edit?usp=sharing) versions | Afloat's and general use case of gated Marketplaces |
@@ -38,4 +38,3 @@ A running instance of the code can be found [here](https://portal-dev.hashed.sys
 
 **Additional Information**
 
-[Hashed Network Runtime Documetation](https://hashed-io.github.io/hashed-substrate/hashed_runtime/index.html)
