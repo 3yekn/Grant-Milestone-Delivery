@@ -21,7 +21,7 @@ A running instance of the code can be found [here](https://portal-dev.hashed.sys
 | 1. | Originate Tax Credit | [JS library](https://github.com/hashed-io/afloat-client-api/blob/master/src/model/polkadot-pallets/afloatApi.js#L34) [Pallet](https://github.com/hashed-io/hashed-substrate/blob/develop/pallets/fruniques/src/lib.rs#L177) | This video provides a demonstration and explainer for how new tax credit NFTs are being originated: [Youtube Video](https://youtu.be/dpFk2d0UXYc) | 
 | 2. | Upload Confidential Documents | [JS library](https://github.com/hashed-io/hashed-confidential-docs-client-api/blob/015b59837eb8c0117fecb0c6323053d605a6f5fd/src/model/OwnedData.js#L57) | This feature allows for NFT originators to upload encrypted files attached to tax credits. The files will be accessible only by the user and the application administrator. This is also explained in the [video](https://youtu.be/dpFk2d0UXYc) | 
 | 3. | Tax Credit verification | n/a | This functionality requires access to confidential data not accessible in the pallet. Instead, it should go on the client or client/market/dapp-specific services/oracle that can do the verifications. (Similar to Twitter/Email/Matrix verifications using the Identity pallet) |
-| 4. | List for Sale | [JS Documentation](https://github.com/hashed-io/hashed-substrate/tree/main/pallets/gated-marketplace#put-an-asset-on-sale-1) | Ability for Tax Credit (NFT) owners to assign a price and list it for sale.| 
+| 4. | List for Sale | [JS Documentation](https://github.com/hashed-io/hashed-substrate/tree/main/pallets/gated-marketplace#put-an-asset-on-sale-1)  [Pallet](https://github.com/hashed-io/hashed-substrate/blob/main/pallets/gated-marketplace/src/lib.rs#L531) | Ability for Tax Credit (NFT) owners to assign a price and list it for sale.| 
 
 **Repositories** 
 (all MIT licensed)
@@ -38,3 +38,4 @@ A running instance of the code can be found [here](https://portal-dev.hashed.sys
 
 **Additional Information**
 
+[Hashed Network Runtime Documetation](https://hashed-io.github.io/hashed-substrate/hashed_runtime/index.html)
