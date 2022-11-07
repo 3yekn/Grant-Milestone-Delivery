@@ -33,6 +33,7 @@ A running instance of the code can be found [here](https://portal-dev.hashed.sys
 | Marketplace JS Library | https://github.com/hashed-io/marketplace-client-api | Javascript |
 | Confidential Documents Server | https://github.com/hashed-io/hashed-private-server | Javascript |
 | Confidential Documents API | https://github.com/hashed-io/hashed-confidential-docs-client-api | Javascript |
+| Afloat Client API | https://github.com/hashed-io/afloat-client-api | Javascript |
 
 
 
